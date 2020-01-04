@@ -1,0 +1,20 @@
+{
+    "nodejs": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-thesemybits-nodejs-140053-authRole",
+            "UnauthRoleArn": "arn:aws:iam::474597462976:role/amplify-thesemybits-nodejs-140053-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::474597462976:role/amplify-thesemybits-nodejs-140053-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-thesemybits-nodejs-140053-deployment",
+            "UnauthRoleName": "amplify-thesemybits-nodejs-140053-unauthRole",
+            "StackName": "amplify-thesemybits-nodejs-140053",
+            "StackId": "arn:aws:cloudformation:us-east-1:474597462976:stack/amplify-thesemybits-nodejs-140053/88b98850-2f24-11ea-8cc4-12d8771823f5",
+            "AmplifyAppId": "dtxhgt0ovfp5r"
+        },
+        "categories": {
+            "auth": {
+                "thesemybits2c512ce0": {}
+            }
+        }
+    }
+}
